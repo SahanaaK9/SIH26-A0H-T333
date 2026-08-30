@@ -11,34 +11,34 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |        SAHANAA KAVIRAJ       CB.EN.U4ECE26045           Female        | ECE                |                        |  
+|    Member 2     |HANUMITHAN ASHOKKUMAR LAVANYA   CB.EN.U4ECE26064       Male        |        ECE                |                 |                                 |  
+|    Member 3     |       NANDHA VIKASH V  [CB.EN.U4ECE26034]         |        Male         |            ECE                     |  
+|    Member 4     | SHRUTHI RANJANE B.S    |     CB.EN.U4ECE26052         |        Female         |      ECE                  |
+|    Member 5     |      V GAUTHAM      |      CB.EN.U4ECE26056           |        Male         |              ECE                   |  
+|    Member 6     |    VARUN C        |    CB.EN.U4ECE26259         |     Male      |              ECE                   |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Mohankumar N.         Assistant  professor            ECE |                n_mohankumar@cb.amrita.edu|                         |                          |
 | Industry       |                     |                       |                         |                          |
 
 -----
 
 ### Problem Statement(s)
 
-#### PS#1
+#### PS#1   
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26037
+* **Problem Statement Title:**  Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads
+* **Theme / Category:** ROBOTICS AND DRONES
+* * **Ministry / Organization:**, MATHWORKS
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:** SIH26026
+* **Problem Statement Title:** Real-time detection of narcotics & explosives
+* **Theme / Category:** ROBOTICS AND DRONES 
+* **Ministry / Organization:**, MINISTRY OF RAILWAYS
