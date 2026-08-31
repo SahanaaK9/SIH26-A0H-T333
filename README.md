@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T333
 ### Team Details
-#### **Team Name** <>YOUNG INNOVATORS
+#### **Team Name** YOUNG INNOVATORS
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
