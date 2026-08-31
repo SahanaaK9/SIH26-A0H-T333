@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       | Mohankumar N.         Assistant  professor            ECE |                n_mohankumar@cb.amrita.edu|                         |                          |
+| Academic       | Mohankumar N.        |  Assistant  professor |            ECE |       n_mohankumar@cb.amrita.edu|                                                   
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:** SIH26026
-* **Problem Statement Title:** Real-time detection of narcotics & explosives
-* **Theme / Category:** ROBOTICS AND DRONES 
-* **Ministry / Organization:**, MINISTRY OF RAILWAYS
+* **Problem Statement ID:** SIH26052
+* **Problem Statement Title:** To develop an AI/ML-enabled adaptive noise cancellation (ANC) system that effectively suppresses stationary, non-stationary, and impulsive defence noises while maintaining high speech intelligibility and real-time performance on embedded hardware
+* **Theme / Category:** Hardware 
+* **Ministry / Organization:**, Miscellaneous
