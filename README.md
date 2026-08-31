@@ -33,12 +33,12 @@
 
 * **Problem Statement ID:** SIH26037
 * **Problem Statement Title:**  Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads
-* **Theme / Category:** ROBOTICS AND DRONES
+* **Theme / Category:** ROBOTICS AND DRONES/ SOFTWARE
 * * **Ministry / Organization:**, MATHWORKS
 
 #### PS#2
 
 * **Problem Statement ID:** SIH26052
 * **Problem Statement Title:** To develop an AI/ML-enabled adaptive noise cancellation (ANC) system that effectively suppresses stationary, non-stationary, and impulsive defence noises while maintaining high speech intelligibility and real-time performance on embedded hardware
-* **Theme / Category:** Hardware 
-* **Ministry / Organization:**, Miscellaneous
+* **Theme / Category:** Miscellaneous/Hardware 
+* **Ministry / Organization:**, DRDO
