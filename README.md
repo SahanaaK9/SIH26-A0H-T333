@@ -5,9 +5,9 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T333
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<YOUNG INNOVATORS>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
@@ -34,7 +34,7 @@
 * **Problem Statement ID:** SIH26037
 * **Problem Statement Title:**  Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads
 * **Theme / Category:** ROBOTICS AND DRONES/ SOFTWARE
-* * **Ministry / Organization:**, MATHWORKS
+* **Ministry / Organization:**, MATHWORKS
 
 #### PS#2
 
